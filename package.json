@@ -14,7 +14,7 @@
     "floating-preview": "./bin/floating-preview"
   },
   "scripts": {
-    "test": "node ./bin/floating-window test"
+    "test": "node ./bin/floating-preview test"
   },
   "dependencies": {
     "commander": "^2.9.0",
