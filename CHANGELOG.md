@@ -1,3 +1,8 @@
+## 0.3.0
+- Changed the type of a command line argument
+- Added an output message
+- Remove unnecessary line breaks from output messages
+
 ## 0.2.0
 - Removed the '--watch' option
 - Added output messages
