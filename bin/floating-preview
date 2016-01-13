@@ -1,3 +1,4 @@
 #!/usr/bin/env node
+
 var floatingPreview = require('../lib/floating-preview');
 floatingPreview.run(process.argv);
