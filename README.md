@@ -11,7 +11,7 @@ npm install floating-preview
 ## How to Use
 
 ```
-Usage: floating-preview [options] [dirname]
+Usage: floating-preview [options] [path]
 
 Options:
 
