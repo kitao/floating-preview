@@ -20,4 +20,5 @@ Options:
   -p, --port <n>               the port number for the http server
   -s, --size <width>x<height>  the size of the window
   -m, --margin <n>             the margin of the window to the corner
+  -z, --zoom <n>               the zoom percentage of the content
 ```
