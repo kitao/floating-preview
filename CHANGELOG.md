@@ -1,6 +1,8 @@
 ## 0.4.0
 - Changed the style to specify options for Electron
 - Changed the default window size to 300x300
+- Added the zoom percentage option
+- Updated the README
 
 ## 0.3.0
 - Changed the type of a command line argument
