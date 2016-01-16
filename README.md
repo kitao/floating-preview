@@ -2,6 +2,8 @@
 
 floating-preview is a simple browser which shows a web page in a small window always on top and reloads automatically.
 
+![floating-preview](https://raw.githubusercontent.com/kitao/floating-preview/master/floating-preview.gif)
+
 ## How to Install
 
 ### Preparation
@@ -20,17 +22,13 @@ floating-preview can be installed with the `npm` command of Node.js.
 $ npm -g install floating-preview
 ```
 
-If a permission error occured while installation, please add the sudo command at the head of the above command like this:
-
-```bash
-$ sudo npm -g install floating-preview
-```
+If a permission error occured while installation, please add the `sudo` command at the head of the above command.
 
 ## How to Use
 
 ### Usage
 
-```bash
+```
 floating-preview [options] [path]
 ```
 
@@ -38,25 +36,25 @@ Both file and directory names can be specified as a path.
 
 ### Examples
 
-Open the `index.html` in the current directory and watches the files in the same directory to reload.
+Open the `index.html` file in the current directory and watch the changes under the same directory to reload.
 
 ```bash
 $ floating-preview
 ```
 
-Open the `index.html` in the `src` directory and watches the files in it.
+Open the `index.html` file in the `src` directory and watch the changes under it.
 
 ```bash
 $ floating-preview src
 ```
 
-Open the `app.js` and watches the files in the same directory.
+Open the `app.js` file and watch the changes under the same directory.
 
 ```bash
 $ floating-preview app.js
 ```
 
-Open the `app.js` in a window whose size is 400x300.
+Open the `app.js` file in a window whose size is 400x300.
 
 ```bash
 $ floating-preview -s 400x300 app.js

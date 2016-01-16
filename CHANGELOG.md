@@ -1,6 +1,7 @@
 ## 0.5.0
 - Updated the description of the package.json
 - Completed the README
+- Added the animation gif
 
 ## 0.4.0
 - Changed the style to specify options for Electron
