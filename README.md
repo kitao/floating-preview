@@ -72,4 +72,5 @@ $ floating-preview -s 400x300 app.js
 ```
 
 ## License
+
 floating-preview is under [MIT license](http://en.wikipedia.org/wiki/MIT_License).

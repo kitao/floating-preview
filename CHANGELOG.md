@@ -1,3 +1,7 @@
+## 0.5.1
+- Updated the version of electron-prebuilt to 0.36.4
+- Formatted the README
+
 ## 0.5.0
 - Updated the description of the package.json
 - Completed the README
