@@ -1,6 +1,6 @@
 {
   "name": "floating-preview",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "Simple browser which shows a web page in a small window always on top and reloads automatically",
   "author": "Takashi Kitao",
   "license": "MIT",

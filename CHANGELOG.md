@@ -1,3 +1,6 @@
+## 0.5.2
+- Formatted the code
+
 ## 0.5.1
 - Updated the version of electron-prebuilt to 0.36.4
 - Formatted the README
