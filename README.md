@@ -10,7 +10,7 @@ floating-preview is a simple browser which shows a web page in a small window al
 
 In order to use floating-preview, installation of Node.js is required. Node.js can be obtained from [the official site](https://nodejs.org/).
 
-In a proxy environment such as in an office, the following settings are also needed:
+In a proxy environment, the following settings are also needed:
 - Set the proxy server with the `npm config set proxy` and `npm config set https-proxy` commands
 - If on Windows, set the `http_proxy` and `https_proxy` environment variables to install the electron-prebuilt module
 
