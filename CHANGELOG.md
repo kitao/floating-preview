@@ -1,5 +1,9 @@
-## 0.5.2
+## 0.6.0
 - Formatted the code
+- Fixed to turn off caching a web page certainly
+- Modified the README
+- Changed to show the menu bar on Windows again
+- Changed the timing to show the window to suppress flicker
 
 ## 0.5.1
 - Updated the version of electron-prebuilt to 0.36.4
