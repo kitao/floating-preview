@@ -1,3 +1,7 @@
+## 0.6.2
+- Changed the default value of the margin to 10
+- Updated the version of electron-prebuilt to 0.36.7
+
 ## 0.6.1
 - Changed to return the ChildProcess object when the module is run
 - Changed the way to calculate the window position
