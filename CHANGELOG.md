@@ -1,3 +1,7 @@
+## 0.6.1
+- Changed to return the ChildProcess object when the module is run
+- Changed the way to calculate the window position
+
 ## 0.6.0
 - Formatted the code
 - Fixed to turn off caching a web page certainly
