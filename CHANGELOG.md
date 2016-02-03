@@ -1,3 +1,6 @@
+## 0.6.3
+- Fixed the way to calculate the window position on Windows
+
 ## 0.6.2
 - Changed the default value of the margin to 10
 - Updated the version of electron-prebuilt to 0.36.7
