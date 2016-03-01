@@ -1,3 +1,6 @@
+## 0.6.5
+- Unified the way to calculate the window position
+
 ## 0.6.4
 - Fixed the way to calculate the window position on Mac
 
