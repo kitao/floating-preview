@@ -1,3 +1,7 @@
+## 0.6.5
+- Unified the way to calculate the window position
+- Updated the version of electron-prebuilt to 0.36.9
+
 ## 0.6.4
 - Fixed the way to calculate the window position on Mac
 

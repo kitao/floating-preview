@@ -1,6 +1,6 @@
 {
   "name": "floating-preview",
-  "version": "0.6.4",
+  "version": "0.6.5",
   "description": "Simple browser which shows a web page in a small window always on top and reloads automatically",
   "author": "Takashi Kitao",
   "license": "MIT",
@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "commander": "^2.9.0",
-    "electron-prebuilt": "^0.36.7",
+    "electron-prebuilt": "^0.36.9",
     "electron-reload": "^0.2.0",
     "node-static": "^0.7.7"
   }
